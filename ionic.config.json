@@ -1,0 +1,7 @@
+{
+  "name": "MCarar_Patient",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
